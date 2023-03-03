@@ -1,1 +1,3 @@
 # 30DaysOfPython
+
+Initialization 
